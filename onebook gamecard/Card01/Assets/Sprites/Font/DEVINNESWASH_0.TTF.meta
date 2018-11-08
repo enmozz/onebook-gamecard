@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 71bba732cae494840a15a2ed196bd726
+timeCreated: 1535987146
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Devinne Swash
+  fontNames:
+  - Devinne Swash
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
